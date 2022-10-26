@@ -1,0 +1,3 @@
+/home/sy/work/pim-lut-framework/pim_sw_lut/src/drv_src/pim_drv.ko
+/home/sy/work/pim-lut-framework/pim_sw_lut/src/drv_src/pim_drv_main.o /home/sy/work/pim-lut-framework/pim_sw_lut/src/drv_src/dma_probe.o /home/sy/work/pim-lut-framework/pim_sw_lut/src/drv_src/pl_fops.o /home/sy/work/pim-lut-framework/pim_sw_lut/src/drv_src/ps_fops.o /home/sy/work/pim-lut-framework/pim_sw_lut/src/drv_src/host_fops.o /home/sy/work/pim-lut-framework/pim_sw_lut/src/drv_src/pim_mem_probe.o /home/sy/work/pim-lut-framework/pim_sw_lut/src/drv_src/pim_math/matmul.o /home/sy/work/pim-lut-framework/pim_sw_lut/src/drv_src/pim_math/matmul_decoupled.o /home/sy/work/pim-lut-framework/pim_sw_lut/src/drv_src/pim_math/elewise.o /home/sy/work/pim-lut-framework/pim_sw_lut/src/drv_src/pim_math/lut.o
+

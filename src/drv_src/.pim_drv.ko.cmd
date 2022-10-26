@@ -1,0 +1,1 @@
+cmd_/home/sy/work/pim-lut-framework/pim_sw_lut/src/drv_src/pim_drv.ko := ld -r -m elf_x86_64 -z max-page-size=0x200000 -T ./scripts/module-common.lds --build-id  -o /home/sy/work/pim-lut-framework/pim_sw_lut/src/drv_src/pim_drv.ko /home/sy/work/pim-lut-framework/pim_sw_lut/src/drv_src/pim_drv.o /home/sy/work/pim-lut-framework/pim_sw_lut/src/drv_src/pim_drv.mod.o ;  true
